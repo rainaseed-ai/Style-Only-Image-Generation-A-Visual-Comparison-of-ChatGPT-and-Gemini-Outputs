@@ -1,6 +1,6 @@
 # Style-Only Image Generation: A Visual Comparison of ChatGPT and Gemini Outputs
 ## (Observational Dataset)
-
+[![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.34369542-blue)](https://doi.org/10.6084/m9.figshare.34369542)
 ## Overview
 This repository contains an observational dataset comparing how two multimodal language models—**ChatGPT** and **Gemini**—generate images when provided with **STYLE-only prompts.** No content descriptions were given; only visual style templates were specified.
 The dataset documents:
