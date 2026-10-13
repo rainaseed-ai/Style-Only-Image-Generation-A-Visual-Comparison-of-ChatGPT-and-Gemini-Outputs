@@ -208,6 +208,15 @@ Both datasets contribute to a broader understanding of multimodal model behavior
 ## 7. Appendix
 
 ### Appendix A: Prompts
+### Prompt Source
+
+The style-only prompt templates used in this dataset were adapted from the style prompts presented in the following Qiita article:
+
+Maeda, Satoshi (@maeda-niku18). *AIっぽくない画像を作る画風プロンプト38種類＋テンプレート*. Qiita, September 7, 2026.  
+[Qiita article](https://qiita.com/maeda-niku18/items/b633dda178c505461080)
+
+The selected style prompts were used as the basis for the style-only generation conditions documented in this dataset. The prompts were applied without adding semantic content descriptions, according to the conditions described in this dataset.
+
 
 1. Natural hand-drawn illustration
 
@@ -219,6 +228,7 @@ STYLE: natural hand-drawn illustration, imperfect organic linework, subtle varia
 ```
 hand-drawn manga illustration, expressive black ink linework, varied pen pressure, screentone shading, simplified background details, energetic natural strokes, subtle imperfections in linework, authentic printed comic texture
 ```
+
 3. Contemporary editorial illustration
 
 ```
@@ -297,7 +307,6 @@ B-9（Figure 9 対応）Gemini – Anchor (continued thread)
 ### Appendix C: Generated Images
 **C-1. Anchor Image (ジェミの参照画像)**
 ![Anchor Image](images/Anchor_Image._Gemini.png)
-<div style="page-break-before: always;"></div>
 
 **C-2. ChatGPT Outputs**
 

@@ -15,8 +15,8 @@ This dataset is **independent** and is not part of the ES3-LLM supplementary mat
 ```
 /
 ├── README.md
-├── Style-Only_Image_Generation.md
-├── Style-Only_Image_Generation.pdf
+├── Style-Only_Image_generation.md
+├── Style-Only_Image_generation.pdf
 images/
 ├── Anchor_Image_Gemini.png
 ├── Figure_1_ChatGPT.png
@@ -32,6 +32,13 @@ The Markdown and PDF files contain the complete dataset, including Appendices A�
 ## Dataset Contents
 
 ### Appendix A — Prompts
+**Prompt Source**
+
+The style-only prompt templates used in this dataset were adapted from the style prompts presented in the following Qiita article:
+
+Maeda, Satoshi (@maeda-niku18). *AIっぽくない画像を作る画風プロンプト38種類＋テンプレート*. Qiita, September 7, 2026.
+
+[Qiita article](https://qiita.com/maeda-niku18/items/b633dda178c505461080)
 
 Five STYLE-only templates used in the observations:
 1. Natural hand-drawn illustration
